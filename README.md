@@ -33,8 +33,23 @@ Let the fun begin!
 | Implement Queue using stacks                   | ✅         | ...       | ...       |
 
 
-### Week 2 
+### Week 2 (12 questions)
 ---
+| Questions                    | Attempt 1 | Attempt 2 | Attempt 3 |
+|------------------------------|-----------|-----------|-----------|
+| First Bad Version            | ✅         | ...       | ...       |
+| Randsom Note                 | ✅         | ...       | ...       |
+| Climbing Stairs              | ✅         | ...       | ...       |
+| Longest Palindrome           | ✅         | ...       | ...       |
+| Reverse Linked List          |           | ...       | ...       |
+| Majority Element             | ✅         | ...       | ...       |
+| Add Binary                   |           | ...       | ...       |
+| Diameter of Binary Tree      |           | ...       | ...       |
+| Middle of the Linked List    |           | ...       | ...       |
+| Maximum Depth of Binary Tree |           | ...       | ...       |
+| Contains Duplicate           |           | ...       | ...       |
+| Maximum Subarray             |           | ...       | ...       |
+
 
 
 ### Week 3 
